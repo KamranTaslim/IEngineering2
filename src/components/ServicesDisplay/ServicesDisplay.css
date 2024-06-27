@@ -1,0 +1,16 @@
+.services-display {
+  margin: 40px;
+}
+
+.services-display h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #388087;
+}
+
+.services-display-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  gap: 40px;
+}
